@@ -12,10 +12,10 @@ seja mais afundo na possivel senha que voce deseja obter, utilize frazes
 pequenas para que suas senhas não fique muito grandes.
 
 # Modo de usar:
-- wget https://raw.githubusercontent.com/CyberKR740/WordListBack/main/.WordListBack.py
+- wget https://raw.githubusercontent.com/CyberKR740/WordListBack/refs/heads/main/WordListBack.py
 - python3 WordListBack.py
 # Modo de Instalar:
-- git clone https://github.com/CyberKR740/WordListBack.git && cp WordListBack/WordListBack.py /usr/bin/listback
-- chmod +x /usr/bin/listback
+- git clone https://github.com/CyberKR740/WordListBack.git && cp WordListBack/WordListBack.py /usr/bin/WordListBack
+- chmod +x /usr/bin/WordListBack
 
-$ listback
+$ WordListBack
